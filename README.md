@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate with other Researches
 - ⚡ Fun fact: I love Anime and video games
 
+---
+
 ### Connect with me:
 
 
@@ -56,5 +58,3 @@
 <!-- shields links -->
 [linkedin-shield]: https://img.shields.io/badge/LinkkedIn-🔗-99F4FB?style=for-the-badge&logo=linkedin&logoColor=99F4FB
 [birth-shield]: https://img.shields.io/badge/Place_of_Birth-BRAZIL-FBFE9A?style=for-the-badge&logo=googlemaps&logoColor=FBFE9A
-<!-- logo links -->
-[site-logo]: https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg
