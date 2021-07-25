@@ -15,8 +15,12 @@
 [<img align="left" alt="homepage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][personal-url]
 [<img align="left" alt="patricia-ternes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin-url]
 <br/>
+
 ---
 
+![Ternes's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-ternes&count_private=true)
+
+---
 
 
 <!-- personal links -->
