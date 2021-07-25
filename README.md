@@ -9,6 +9,16 @@
 - 👯 I’m looking to collaborate with other Researches
 - ⚡ Fun fact: I love Anime and video games
 
+### Connect with me:
+
+
+[<img align="left" alt="homepage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][personal-url]
+[<img align="left" alt="patricia-ternes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin-url]
+<br/>
+---
+
+
+
 <!-- personal links -->
 [personal-url]: https://patricia-ternes.github.io/
 [linkedin-url]: https://linkedin.com/in/patricia-ternes/
@@ -18,3 +28,5 @@
 <!-- shields links -->
 [linkedin-shield]: https://img.shields.io/badge/LinkkedIn-🔗-99F4FB?style=for-the-badge&logo=linkedin&logoColor=99F4FB
 [birth-shield]: https://img.shields.io/badge/Place_of_Birth-BRAZIL-FBFE9A?style=for-the-badge&logo=googlemaps&logoColor=FBFE9A
+<!-- logo links -->
+[site-logo]: https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg
