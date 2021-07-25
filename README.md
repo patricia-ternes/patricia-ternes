@@ -41,7 +41,7 @@
 
 ---
 
-![Ternes's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-ternes&count_private=true)
+![Ternes's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricia-ternes&count_private=true&show_icons=true)
 
 ---
 
