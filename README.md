@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I am [Dr Patricia Ternes][personal-url] 👋
 
-<!--
-**patricia-ternes/patricia-ternes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn][linkedin-shield]][linkedin-url] ![Birth][birth-shield]
 
-Here are some ideas to get you started:
+## I'm a Wife, Cat Owner, Coffee Lover, and Researcher!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [DUST][dust-url] project
+- 🌱 I’m currently learning about Time Series Forecasting
+- 👯 I’m looking to collaborate with other Researches
+- ⚡ Fun fact: I love Anime and video games
+
+<!-- personal links -->
+[personal-url]: https://patricia-ternes.github.io/
+[linkedin-url]: https://linkedin.com/in/patricia-ternes/
+<!-- professional links -->
+[dust-url]: https://dust.leeds.ac.uk/
+<!-- shields links -->
+[linkedin-shield]: https://img.shields.io/badge/LinkkedIn-🔗-99F4FB?style=for-the-badge&logo=linkedin&logoColor=99F4FB
+[birth-shield]: https://img.shields.io/badge/Place_of_Birth-🇧🇷-FBFE9A?style=for-the-badge&logo=googlemaps&logoColor=FBFE9A
