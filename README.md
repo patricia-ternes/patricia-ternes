@@ -22,6 +22,7 @@
 
 ---
 
+![Ternes's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patricia-ternes&layout=compact)
 
 <!-- personal links -->
 [personal-url]: https://patricia-ternes.github.io/
