@@ -5,7 +5,7 @@
 ## I'm a Wife, Cat Owner, Coffee Lover, and Researcher!
 
 - 🔭 I’m currently part of the [Research Computing][rc-url] group at the University of Leeds
-- 🌱 I’m currently learning about Time Series Forecasting
+- 🌱 I’m currently learning about Accelerated Computing with CUDA
 - 👯 I’m looking to collaborate with other Researches
 - ⚡ Fun fact: I love Anime and video games
 
